@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @randyscottcoffman
 - 👀 I’m interested in becoming a web developer
-- 🌱 I’m currently learning fullstack javascript (MERN stack specifcially)
+- 🌱 I’m currently learning .Net along with TypeScript
 - 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me - randyscoffman@gmail.com
 
